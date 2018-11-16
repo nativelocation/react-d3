@@ -2,7 +2,6 @@
 
 var React = require('react');
 var PropTypes = require('prop-types');
-var createReactClass = require('create-react-class');
 var d3 = require('d3');
 
 module.exports =  {

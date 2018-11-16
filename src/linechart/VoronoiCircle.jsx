@@ -1,6 +1,7 @@
 'use strict';
 
 var React = require('react');
+var createReactClass = require('create-react-class');
 var d3 = require('d3');
 
 module.exports = createReactClass({
